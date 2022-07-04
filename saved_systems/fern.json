@@ -1,0 +1,25 @@
+{
+    "axiom": "X",
+    "constants": [
+        "-",
+        "+",
+        "[",
+        "]"
+    ],
+    "variables": [
+        "F",
+        "X"
+    ],
+    "rules": {
+        "F": "FF",
+        "X": "F-[[X]+X]+F[+FX]-X"
+    },
+    "angle": 22.5,
+    "line_length": 15,
+    "line_color": [
+        255,
+        255,
+        255
+    ],
+    "saved_drawing_states": []
+}
